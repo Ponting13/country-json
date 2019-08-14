@@ -352,6 +352,10 @@
         "currency_code": "QTQ"
     },
     {
+        "country": "Guernsey",
+        "currency_code": "GBP"
+    },
+    {
         "country": "Guinea",
         "currency_code": "GNF"
     },
@@ -416,6 +420,10 @@
         "currency_code": "ILS"
     },
     {
+        "country": "Isle of Man",
+        "currency_code": "GBP"
+    },
+    {
         "country": "Italy",
         "currency_code": "EUR"
     },
@@ -430,6 +438,10 @@
     {
         "country": "Japan",
         "currency_code": "JPY"
+    },
+    {
+        "country": "Jersey",
+        "currency_code": "GBP"
     },
     {
         "country": "Jordan",
@@ -562,6 +574,10 @@
     {
         "country": "Mongolia",
         "currency_code": "MNT"
+    },
+    {
+        "country": "Montenegro",
+        "currency_code": "EUR"
     },
     {
         "country": "Montserrat",
@@ -760,6 +776,10 @@
         "currency_code": "XOF"
     },
     {
+        "country": "Serbia",
+        "currency_code": "RSD"
+    },
+    {
         "country": "Seychelles",
         "currency_code": "SCR"
     },
@@ -808,7 +828,7 @@
         "currency_code": "EUR"
     },
     {
-        "country": "SriLanka",
+        "country": "Sri Lanka",
         "currency_code": "LKR"
     },
     {
@@ -854,6 +874,10 @@
     {
         "country": "The Democratic Republic of Congo",
         "currency_code": "CDF"
+    },
+    {
+        "country": "Timor-Leste",
+        "currency_code": "USD"
     },
     {
         "country": "Togo",
